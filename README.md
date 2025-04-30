@@ -1,1 +1,1 @@
-В этом проекте я тестировала программу CALENDAR_1.1, выдающую значения даты, времени из указанного диапазона дат. Первыми выполняются позитивные проверки, затем негативные. Резальтаты проверок и локализованные баги описаны в файле Чек-лист 1.docx.
+In this project I tested the CALENDAR_1.1 program, which outputs date and time values ​​from a specified date range. The results of the checks and localized bugs are described in the Чек-лист 1.docx file.
